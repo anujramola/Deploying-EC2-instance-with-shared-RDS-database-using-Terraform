@@ -1,5 +1,9 @@
 **PROJECT_OVERVIEW:**DEPLOYING AN EC2 INSTANCE WITH SHARED RELATIONAL DATABASE USING TERRAFORM.
 
+Architecture Diagram:
+![image](https://github.com/user-attachments/assets/7443e769-0d6e-484a-b953-1d9dc6ae80ae)
+
+
 **PROJECT_REQUIREMENTS**
 Here are the basic requirements for the project:
 
